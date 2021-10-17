@@ -25,5 +25,3 @@ Command: ["startvm", "d5676048-48cc-47bf-abd9-a9392dfc637c", "--type", "headless
 
 Stderr: VBoxManage: error: The virtual machine 'shell_default_1634498724041_60223' has terminated unexpectedly during startup with exit code 1 (0x1)
 VBoxManage: error: Details: code NS_ERROR_FAILURE (0x80004005), component MachineWrap, interface IMachine
-
-➜  shell
